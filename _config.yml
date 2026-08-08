@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: a thought and a half
+title: Some words and some math
+name: "Brian Shin"
 email: b.shin@utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   I don't write good. But I want to get better.
@@ -29,9 +30,28 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
+
+
+author:
+  name: "Brian Shin"
+  bio: "working on writing"
+  links:
+    - label: "Home"
+      icon: "fa-solid fa-house"
+      url: "https://www.brian-shin.com"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

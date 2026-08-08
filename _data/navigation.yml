@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Recent Posts"
+    url: /
+  - title: "Back to Main"
+    url: "https://www.brian-shin.com"
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
