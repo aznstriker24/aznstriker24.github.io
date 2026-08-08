@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a mathematician. Broadly, my interests lie at the intersection of homotopy theory and algebraic geometry.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In Fall 2026, I will be a postdoctoral fellow at SLMath program on motivic homotopy theory. Previously, I was a postdoctoral fellow at University of Toronto. Before that, I was an assistant adjunct professor at University of California Los Angeles. I completed my Ph. D.  in 2022 at University of Illinois Urbana-Champaign, where I was advised by Jeremiah Heller.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I was born and raised in western New York. When I'm not working, I enjoy listening to music, annoying my cat Mochi, playing cello, and fermenting foods.
