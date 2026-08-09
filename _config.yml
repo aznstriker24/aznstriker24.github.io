@@ -31,18 +31,26 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "catppuccin_latte"
 plugins:
   - jekyll-feed
 
 
 author:
   name: "Brian Shin"
+  location: Davis, CA
   bio: "working on writing"
+  avatar: "/assets/images/SnowSelfie.jpg"
   links:
-    - label: "Home"
-      icon: "fa-solid fa-house"
+    - label: "main"
+      icon: "fa-regular fa-house"
       url: "https://www.brian-shin.com"
+    - label: "blog"
+      icon: "fa-solid fa-paragraph"
+      url: "https://aznstriker24.github.io"
+    - label: "instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/aznstriker24"
 
 defaults:
   # _posts
